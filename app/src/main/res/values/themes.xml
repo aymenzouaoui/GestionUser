@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GreenWorld" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorSurface">@color/colorPrimary</item>
+        <item name="colorOnSurface">@color/colorPrimary</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <item name="colorError">#B3261E</item>
+        <item name="colorErrorContainer">#B3261E</item>
+        <item name="colorOnError">#B3261E</item>
+        <item name="colorOnErrorContainer">#B3261E</item>
+
+    </style>
+
+    <style name="Theme.GreenWorld" parent="Base.Theme.GreenWorld" />
+
+    <style name="EllipseTextInputStyle">
+        <item name="android:background">@drawable/ellipse_background</item>
+    </style>
+
+    <!-- styles.xml -->
+    <style name="green_world">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">#F2FEED</item>
+    </style>
+
+    <style name="ThemeOverlay.GreenWorld.FullscreenContainer" parent="">
+        <item name="fullscreenBackgroundColor">@color/light_blue_600</item>
+        <item name="fullscreenTextColor">@color/light_blue_A200</item>
+    </style>
+
+</resources>

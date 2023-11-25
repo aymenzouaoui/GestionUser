@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">GreenWorld</string>
+    <!-- Gestion User  -->
+
+    <!-- Gestion User-Login  -->
+    <string name="input_email">Email</string>
+    <string name="input_suffix_Email">\@gmail.com</string>
+    <string name="input_full_name">FullName</string>
+    <string name="input_password">Password</string>
+    <string name="input_confirm_password">Confirm Password</string>
+    <string name="txt_or">OR</string>
+    <string name="txt_forgot_password">Forgot Password</string>
+    <string name="btn_remember_me">Remember Me</string>
+    <string name="msg_invalid_email">Adresse e-mail non valide. Veuillez saisir une adresse e-mail valide.</string>
+
+    <string name="btn_forgot_password">Forgot password ?</string>
+
+    <string name="txt_otp_validation">Please enter the 4-digit code we sent to your email address</string>
+    <string name="txt_otp_adress"> verify your email address.</string>
+    <string name="txt_otp_email_code"> We have sent a 4-digit code to the following email address:</string>
+    <string name="txt_otp_email">  @{viewmodel.userName}"</string>
+    <string name="txt_otp_email_validation">  If you do not receive the confirmation email, please check your spam or unwanted emails."</string>
+
+    <string name="txt_reset_password">Reset Password</string>
+    <string name="btn_register_now">Don\'t have an account? <u>Register Now</u> </string>
+    <string name="btn_login">Login</string>
+    <string name="btn_Sign">Sign</string>
+    <string name="btn_apple">apple</string>
+    <string name="btn_signup">Sign up</string>
+    <string name="btn_validation">Valider maintenant</string>
+    <string name="btn_validation_try">Typo ? try again</string>
+
+
+    <string name="btn_terms_and_privacy">By registering you agree to our <u>Terms &amp; Conditions</u> and <u>Privacy Policy</u></string>
+    <!--  ValidationCode  -->
+    <string name="txt_otp_Confirmation">Confirmation code</string>
+
+    <string name="txt_no_reception">Didn\'t receive a verification code?</string>
+    <string name="btn_verify">Verify</string>
+    <string name="btn_resend_code"><u>Resend confirmation code</u></string>
+    <string name="Content_description_1">Enter the first digit of your validation code</string>
+    <string name="Content_description_2">Enter the second digit of your validation code</string>
+    <string name="Content_description_3">Enter the third digit of your validation code</string>
+    <string name="Content_description_4">Enter the fourth digit of your validation code</string>
+    <!--  Renitialiser Mot Passe  -->
+
+    <string name="txt_reset_password_desc"> Reset Password.</string>
+    <string name="btn_submit">Submit</string>
+
+
+    <!--  STATICS  -->
+    <string name="Content_description_app_logo">App Logo</string>
+    <string name="Content_description_back">back</string>
+    <string name="Content_description_apple_button">Apple Login</string>
+    <string name="Content_description_facebook_button">Facebook Login</string>
+    <string name="Content_description_google_button">Google Login</string>
+
+    <!--  ErrorsMessages  -->
+    <string name="msg_must_not_be_empty">Must not be empty!</string>
+    <string name="msg_check_your_email">Must be a valid email!</string>
+    <string name="msg_check_your_characters">Must be a at least 6 characters!</string>
+    <string name="msg_check_your_confirm_Password">Must be the same password!</string>
+    <string name="msg_error_inputs">You Have some errors in your inputs!</string>
+    <string name="msg_error_wrong_code">Wrong code!</string>
+    <string name="msg_coming_soon">Coming soon :)</string>
+    <!--  Password validation  -->
+    <string name="msg_password_uppercase">Le mot de passe doit contenir au moins une lettre majuscule.</string>
+    <string name="msg_password_digit">Le mot de passe doit contenir au moins un chiffre.</string>
+    <string name="msg_password_special_char">Le mot de passe doit contenir au moins un caractère spécial parmi !@#$%^&*()-_+=<>?/{}</string>
+    <string name="msg_password_length">Le mot de passe doit contenir au moins 8 caractères.</string>
+
+    <!--  Main  -->
+    <string name="main_desc">Every action counts in preserving our precious nature</string>
+
+    <string name="green_world">
+Green World
+</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
